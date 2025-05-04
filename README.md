@@ -37,4 +37,4 @@ This project reflects my experience at Wabtec Locomotive, where I gained insight
 - Enable data export as CSV or PDF for reporting.
 
 ## Contact
-For questions or to discuss this project, reach out via [LinkedIn](https://linkedin.com/in/your-profile) or [email](mailto:your.email@example.com).
+For questions or to discuss this project, reach out via [LinkedIn](https://linkedin.com/in/steve-griffith6) or [email](mailto:sgriff09@icloud.com).
